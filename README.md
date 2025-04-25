@@ -11,7 +11,7 @@
 
 ### 开源项目
 
-- [基于BS架构的Google Search子域名批量收集工具]([https://github.com/JoeyBling/bootplus](https://github.com/trtyr/Google_Search_Subdomain_Extractor))
+- ![基于BS架构的Google Search子域名批量收集工具]([https://github.com/JoeyBling/bootplus](https://github.com/trtyr/Google_Search_Subdomain_Extractor))
 
 ### 关于我
 - [个人博客](https://www.trtyr.top/)
