@@ -1,6 +1,5 @@
 ## 鱼入大海,鸟上青霄,不受笼网之羁绊也！
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### 👋 Hello I'm Trtyr
 
@@ -20,5 +19,7 @@
 
 -   **个人博客**: [Trtyr' Blog](https://www.trtyr.top/) - 我会在这里分享一些学习笔记和思考。
 -   **微信公众号**: `隅见录` - 欢迎在微信搜索关注！
+
+*   <p align="center">期待与你在技术的道路上相遇和交流！</p>
 
 ⭐️ From [JoeyBling](https://github.com/JoeyBling)
