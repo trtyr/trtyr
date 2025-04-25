@@ -12,8 +12,9 @@
 
 ### 🚀 开源项目
 
--   **[Google Search子域名批量收集工具](https://github.com/trtyr/Google_Search_Subdomain_Extractor)**
-    -   📝 描述：一个基于BS架构，用于批量从 Google 搜索引擎结果中收集子域名的 Python 工具。
+#### **[Google Search子域名批量收集工具](https://github.com/trtyr/Google_Search_Subdomain_Extractor)**
+
+一个基于BS架构，用于批量从 Google 搜索引擎结果中收集子域名的 Python 工具。
 
 ### ✍️ 关于我
 
