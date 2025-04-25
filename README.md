@@ -18,7 +18,7 @@
 
 除了代码，你还可以在这些地方找到我：
 
--   **个人博客**: [点击访问 Trtyr 的小站](https://www.trtyr.top/) - 我会在这里分享一些学习笔记和思考。
+-   **个人博客**: [Trtyr' Blog](https://www.trtyr.top/) - 我会在这里分享一些学习笔记和思考。
 -   **微信公众号**: `隅见录` - 欢迎在微信搜索关注！
 
 ⭐️ From [JoeyBling](https://github.com/JoeyBling)
