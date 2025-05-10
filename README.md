@@ -11,6 +11,7 @@
 ### 🚀 开源项目
 
 - **[Google Search子域名批量收集工具](https://github.com/trtyr/Google_Search_Subdomain_Extractor)**: 一个基于BS架构，用于批量从 Google 搜索引擎结果中收集子域名的 Python 工具。
+- **[MCP Gateway](https://github.com/trtyr/MCP-Gateway)**: 基于Python的MCP网关，将不同的MCP工具结合结合起来。
 
 ### ✍️ 关于我
 
