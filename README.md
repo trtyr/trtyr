@@ -10,8 +10,11 @@
 
 ### 🚀 开源项目
 
-- **[Google Search子域名批量收集工具](https://github.com/trtyr/Google_Search_Subdomain_Extractor)**: 一个基于BS架构，用于批量从 Google 搜索引擎结果中收集子域名的 Python 工具。
-- **[MCP Gateway](https://github.com/trtyr/MCP-Gateway)**: 基于Python的MCP网关，将不同的MCP工具结合起来。
+- **[Google Search子域名批量收集工具](https://github.com/trtyr/Google_Search_Subdomain_Extractor)**: 一个基于BS架构，用于批量从 Google 搜索引擎结果中### 🚀 开源项目
+- **[AgentSSH](https://github.com/trtyr/AgentSSH)**: Rust 编写的 AI-agent SSH 工具。支持一次性命令执行、文件传输、持久会话（含自动重连）和 SOCKS5 代理，所有输出结构化 JSON。
+- **[ariadne](https://github.com/trtyr/ariadne)**: 渗透测试攻击路径图工具。用节点记录发现、边连接攻击链，浏览器实时渲染 + AI 分析端点给出下一步建议。
+- **[ferrimind](https://github.com/trtyr/ferrimind)**: Rust 代码库卫星地图。索引项目生成调用图，搜索符号、追踪调用链、分析依赖影响，专为 LLM 上下文窗口优化（~8k tokens 导航摘要）。
+- **[Mizuki](https://github.com/trtyr/Mizuki)**: 基于 Astro 构建的个人博客/站点。
 
 ### ✍️ 关于我
 
