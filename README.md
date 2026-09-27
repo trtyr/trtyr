@@ -1,6 +1,6 @@
 ## Hi, I'm Junyu (trtyr) 🦀
 
-FDE @ Chaitin — building AI agent tooling in **Rust** & **Python**.
+Building AI agent tooling in **Rust** & **Python**.
 
 I like small, sharp, single-binary CLI tools: built for AI agents to drive, readable enough for humans to use.
 
